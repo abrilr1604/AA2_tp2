@@ -1,4 +1,4 @@
-**Ejercicio 1** 
+#Ejercicio 1
 
 El objetivo del ejercicio es dar solución al problema de clasificación de dígitos hablados del 0 al 9. El dataset proporcionado incluye un total de 3000 clips de audio correspondientes a 6 locutores distintos, 50 clips por dígito por locutor.
 
