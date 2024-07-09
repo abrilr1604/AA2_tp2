@@ -1,4 +1,4 @@
-##Ejercicio 2 - Fake News\
+#Ejercicio 2 - Fake News\
 Descripción:\
 En el siguiente problema,se presenta un conjunto de datos correspondientes a resúmenes de artículos de noticias.\ 
 El objetivo del problema es crear un modelo capaz de generar resúmenes ficticios de forma aleatoria.\
