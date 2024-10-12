@@ -1,6 +1,11 @@
 # AA2 - Trabajo Práctico 2
 Resolución del Trabajo Práctico N°2 de la asignatura Aprendizaje Automático II
 
+## Integrantes
+- Abril Rodriguez
+- [Enzo Ferrari](https://github.com/enzoferrari1)
+- [Micaela Pozzo](https://github.com/MicaPozzo)
+
 ## Descripción
 Este trabajo consiste en la utilización de redes neuronales recurrentes para distintas aplicaciones mediante dos ejercicios:
 
